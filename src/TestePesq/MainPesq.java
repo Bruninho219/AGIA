@@ -2,7 +2,7 @@ package TestePesq;
 
 import java.util.Random;
 
-public class MaisPesq
+public class MainPesq
 {
     public static void main(String[] args)
     {
